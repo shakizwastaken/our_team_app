@@ -1,0 +1,34 @@
+
+.profile{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    width: 25%;
+    padding: 3rem;
+
+    background-color: #222831;
+    color: white;
+    border-radius: .7rem;
+}
+
+.info{
+    padding: 1rem;
+}
+
+.info h3 {
+    letter-spacing: 5px;
+    color: lightgray;
+    font-weight: 300;
+}
+
+.role {
+    color: #afaaf7;
+}
+
+.pfp {
+    width: 50%;
+    border-radius: 100%;
+    border: .3rem #7971EA solid;
+}
